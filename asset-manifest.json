@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bookappointmentapp.github.io/static/css/main.5a01805b.css",
+    "main.js": "/bookappointmentapp.github.io/static/js/main.46ad204e.js",
+    "static/media/formicon2.png": "/bookappointmentapp.github.io/static/media/formicon2.7db219aecbe2fa431a1a.png",
+    "index.html": "/bookappointmentapp.github.io/index.html",
+    "main.5a01805b.css.map": "/bookappointmentapp.github.io/static/css/main.5a01805b.css.map",
+    "main.46ad204e.js.map": "/bookappointmentapp.github.io/static/js/main.46ad204e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a01805b.css",
+    "static/js/main.46ad204e.js"
+  ]
+}
